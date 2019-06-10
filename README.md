@@ -1,2 +1,3 @@
 # hello-world
-Begin learning GitHub
+Begin learning GitHub.
+This is a practice branch, used to learn more about using Github.
